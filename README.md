@@ -1,4 +1,4 @@
-# Musik
+# Cadastro Netflix
 
 [Link para o projeto](http://cadastro-netflix.vercel.app/)
 ## GitHub
