@@ -1,6 +1,6 @@
 # Musik
 
-[Link para o projeto](https://landing-page-musik.vercel.app/)
+[Link para o projeto](http://cadastro-netflix.vercel.app/)
 ## GitHub
 [Meus repositórios](https://github.com/Lincado)
 
